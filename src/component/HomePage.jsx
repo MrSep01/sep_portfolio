@@ -9,6 +9,7 @@ import netlifySVG from '../assets/svg/netlifyLogo.svg';
 import nodejsLogo from '../assets/svg/nodejsLogo.svg';
 import mysqlLogo from '../assets/svg/mysqlLogo.svg';
 import myResume from '../assets/pdf/sepAlamouti.pdf';
+
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLocationDot } from '@fortawesome/free-solid-svg-icons';
 import { faLinkedin, faGithub, faHtml5, faCss3, faJsSquare, faReact } from '@fortawesome/free-brands-svg-icons';
