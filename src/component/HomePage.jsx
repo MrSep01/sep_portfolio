@@ -8,7 +8,7 @@ import viteSVG from '../assets/svg/viteLogo.svg';
 import netlifySVG from '../assets/svg/netlifyLogo.svg';
 import nodejsLogo from '../assets/svg/nodejsLogo.svg';
 import mysqlLogo from '../assets/svg/mysqlLogo.svg';
-import myResume from '../assets/pdf/sepAlamouti.pdf';
+import myResume from '../assets/pdf/resume.pdf';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLocationDot } from '@fortawesome/free-solid-svg-icons';
